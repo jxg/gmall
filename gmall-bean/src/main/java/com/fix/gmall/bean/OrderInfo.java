@@ -1,8 +1,8 @@
 package com.fix.gmall.bean;
 
-import com.atguigu.gmall0218.bean.enums.OrderStatus;
-import com.atguigu.gmall0218.bean.enums.PaymentWay;
-import com.atguigu.gmall0218.bean.enums.ProcessStatus;
+import com.fix.gmall.bean.enums.OrderStatus;
+import com.fix.gmall.bean.enums.PaymentWay;
+import com.fix.gmall.bean.enums.ProcessStatus;
 import lombok.Data;
 
 import javax.persistence.*;
